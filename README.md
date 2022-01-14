@@ -1,16 +1,16 @@
 # ReadEar 📚
 ![](https://github.com/InjuMichorius/ReadEar/blob/master/public/img/documentatie/white.gif)
 
-ReadEar is a school project I made, allowing blind people to "read" again. The project is focused on one user (exclusive design) called Roger Ravelli. He used to work as a renewable energy specialist, but he's slowly becoming blind and will need to use a screenreader. He likes to read and he's currently a member of a book group.
+I build this project to learn more about the canvas element. I wanted to do something with music to, so I decided to mix these two things to create an application that visualizes sound.
 
-[Click here for the live demo](readearr.herokuapp.com/)
+[Click here for the live demo](https://injumichorius.github.io/Audio-Visualization/)
 
 # Table of Contents 🧭
-1. [Goal](https://github.com/InjuMichorius/ReadEar#goal-)
-2. [Getting started](https://github.com/InjuMichorius/ReadEar#getting-started-)
-3. [Wishlist](https://github.com/InjuMichorius/ReadEar#feature-wishlist--backlog-)
-4. [Practises](https://github.com/InjuMichorius/ReadEar#design-patterns-and-best-practices-)
-5. [Packages](https://github.com/InjuMichorius/ReadEar#packages-used-)
+1. [Goal](https://github.com/InjuMichorius/Audio-Visualization#goal-)
+2. [Getting started](https://github.com/InjuMichorius/Audio-Visualization#getting-started-)
+3. [Wishlist](https://github.com/InjuMichorius/Audio-Visualization#feature-wishlist--backlog-)
+4. [Practises](https://github.com/InjuMichorius/Audio-Visualization#design-patterns-and-best-practices-)
+5. [Packages](https://github.com/InjuMichorius/Audio-Visualization#packages-used-)
 
 # Goal 💪🏻
 The goal of ReadEar is to provide it's users with an accessible interface, so they can easily listen to mp3 files. By creating this project im hoping to learn how to make the web a more accessible place!
