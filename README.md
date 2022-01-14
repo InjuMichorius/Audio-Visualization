@@ -10,10 +10,9 @@ I build this project to learn more about the canvas element. I wanted to do some
 2. [Getting started](https://github.com/InjuMichorius/Audio-Visualization#getting-started-)
 3. [Wishlist](https://github.com/InjuMichorius/Audio-Visualization#feature-wishlist--backlog-)
 4. [Practises](https://github.com/InjuMichorius/Audio-Visualization#design-patterns-and-best-practices-)
-5. [Packages](https://github.com/InjuMichorius/Audio-Visualization#packages-used-)
 
 # Goal 💪🏻
-The goal of ReadEar is to provide it's users with an accessible interface, so they can easily listen to mp3 files. By creating this project im hoping to learn how to make the web a more accessible place!
+The goal of this project is to get better at html canvas and javascript.
 
 # Getting started ✨
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -25,45 +24,31 @@ To run this project you'll need [Git](https://git-scm.com/downloads), [Nodejs](h
 ### 1. Clone this repository 👯
 Before we can get started, we'll need to clone this repository. We can do this by typing the following line of code in the terminal:
 ```bash
-git clone https://github.com/InjuMichorius/ReadEar.git
+git clone https://github.com/InjuMichorius/Audio-Visualization.git
 ```
-### 2. Install the packages 💻
-First we need to install the used NPM packages.
-```bash
-npm install
-```
-### 3. Start developer environment 🎬
-Now we can run our application, by running the following line of code in your terminal:
-```bash
-npm run dev
-```
-
-### 4. Navigate to localhost 🌐
-Congratulations! If everything works, you should be able to see the application running in your browser. Please note that the port won't always be the same number.
-```
-http://localhost:3000
-```
+### 2. Open index.html 💻
+Open the index.html. The application should now be running on your local machine!
 
 # Feature wishlist / backlog 👑
 Below is a list of features I'd love to add to this application. The features are split up using the **M**o**SC**o**W** method.
 
 **M** - Must haves
 _These features are requirements for the end product_
-- [x] Overview page with avaible books
-- [x] Possibilty to change pages
+- [x] Visualisation of sound
+- [x] (Web) Audio
 
 **S** - Should haves
 _These features are wanted, but not necessary for a usable product_
-- [x] Accessible styling
-- [x] Easy audio controls
+- [x] Option to add own music
+- [x] Sound effect on click for discoverability
 
 **C** - Could haves
 _These features can be added if there is enough time to do so_
-- [ ] Database that stores all mp3 files
+- [ ] List of music which you can choose from
 
 **W** - Would haves
 _These features can be added in the future_
-- [ ] Easy way for firends to upload mp3 files
+- [ ] Edit visualization pattern
 
 # Design patterns and Best Practices 👩🏻‍💻
 __Code standards are important__ when working on any project; your code stays *consistent* and is *readable* for everyone. I defined code standards for __HTML__, __CSS__ and __JS__ while working on this project.
@@ -92,12 +77,6 @@ __Code standards are important__ when working on any project; your code stays *c
 * Divs are only used when __necessary__ for styling purposes
 * Classes allow easy __re-usage__
 * Indentation is always __clear__
-
-# Packages used 📦
-* [Express](https://www.npmjs.com/package/express) - Used to setup the server
-* [Body-parser](https://www.npmjs.com/package/body-parser) - Used to refer to html elements
-* [Ejs](https://www.npmjs.com/package/ejs) - Used for templating
-* [Nodemon](https://www.npmjs.com/package/nodemon) - Used for auto refreshing the server
 
 # License 🔐
 This project is licensed under the MIT license by © Inju Michorius, 2021. See the [LISENCE.md](https://github.com/InjuMichorius/ReadEar/blob/master/LICENSE) file for details.
