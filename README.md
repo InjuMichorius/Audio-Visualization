@@ -1,4 +1,4 @@
-# ReadEar 📚
+# Audio-Visualization 🎶
 ![](https://github.com/InjuMichorius/ReadEar/blob/master/public/img/documentatie/white.gif)
 
 I build this project to learn more about the canvas element. I wanted to do something with music to, so I decided to mix these two things to create an application that visualizes sound.
