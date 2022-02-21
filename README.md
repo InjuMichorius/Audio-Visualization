@@ -18,7 +18,7 @@ The goal of this project is to get better at html canvas and Javascript. I also 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Technical requirements
-To run this project you'll need [Git](https://git-scm.com/downloads), [Nodejs](https://nodejs.org/en/download/) and any [code editor](https://code.visualstudio.com/download)
+To run this project you'll need any [code editor](https://code.visualstudio.com/download)
 
 ## 📥 Installing
 ### 1. Clone this repository 👯
@@ -79,4 +79,4 @@ __Code standards are important__ when working on any project; your code stays *c
 * Indentation is always __clear__
 
 # License 🔐
-This project is licensed under the MIT license by © Inju Michorius, 2021. See the [LISENCE.md](https://github.com/InjuMichorius/ReadEar/blob/master/LICENSE) file for details.
+This project is licensed under the MIT license by © Inju Michorius, 2021. See the [LISENCE.md](https://github.com/InjuMichorius/Audio-Visualization/blob/master/LICENSE) file for details.
