@@ -12,7 +12,7 @@ I build this project to learn more about the canvas element. I wanted to do some
 4. [Practises](https://github.com/InjuMichorius/Audio-Visualization#design-patterns-and-best-practices-)
 
 # Goal 💪🏻
-The goal of this project is to get better at html canvas and javascript.
+The goal of this project is to get better at html canvas and Javascript. I also want to learn about music with code.
 
 # Getting started ✨
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
