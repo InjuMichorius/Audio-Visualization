@@ -33,10 +33,55 @@ canvas#canvas {
     top: 150px;
     color: white;
     z-index: 100;
+    cursor: pointer;
 }
 
 input[type="text"] {
     position: absolute;
     top: 0;
     left: 0;
+}
+
+ul {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 1000;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+li {
+    font-size: 1.4em;
+    border: 1px solid white;
+    color: white;
+    padding: 20px;
+    cursor: pointer;
+    transition: all .3s ease-in-out;
+}
+
+li:hover {
+    color: black;
+    background-color: white;
+}
+
+.custom-file-input::-webkit-file-upload-button {
+    visibility: hidden;
+}
+.custom-file-input::before {
+    content: 'Listen to your own music!';
+    display: inline-block;
+    background: linear-gradient(top, #f9f9f9, #e3e3e3);
+    border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px 8px;
+    outline: none;
+    white-space: nowrap;
+    cursor: pointer;
+    font-size: 1.5em;
+}
+.custom-file-input:hover::before {
+    border-color: black;
+}
+.custom-file-input:active::before {
+    background: -webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
 }

@@ -12,14 +12,19 @@
 </head>
 
 <body>
+    <ul>
+        <li onclick="chooseSong('downTheRoad')">C2C - Down the Road</li>
+        <li onclick="chooseSong('hateWillNeverWin')">XXXTENTACION - Hate Will Never Win</li>
+        <li onclick="chooseSong('mrFear')">SIAMÉS - Mr. FEAR</li>
+        <li onclick="chooseSong('casio')">Jungle - Casio</li>
+        <li onclick="chooseSong('gambino')">Childish Gambino - 3005 (Okokko lofi remix)</li>
+        <li onclick="chooseSong('relaxAndTakeNotes')">The Notorious B.I.G. - Relax and take notes (Unknown remix)</li>
+    </ul>
     <div id="container">
         <canvas id="canvas"></canvas>
         <audio id="audio" controls></audio>
-        <input type="file" id="fileUpload" accept="audio/*" />
+        <input type="file" id="fileUpload" class="custom-file-input" accept="audio/*" />
     </div>
-    <label for="barAmountInput">Amount
-        <input type="text" id="barAmountInput" pattern="[0-9]{1,4}" value="">
-    </label>
 </body>
 
 </html>
